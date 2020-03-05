@@ -19,7 +19,7 @@ function promptUser() {
     {
       type: "input",
       name: "Installation",
-      message: " Add Installation Guide"
+      message: "Add Installation Guide"
     },
     {
       type: "input",
@@ -28,7 +28,7 @@ function promptUser() {
     },
     {
       type: "input",
-      name: "Contributors ",
+      name: "Contributors",
       message: "Add Contributors"
     },
     {
